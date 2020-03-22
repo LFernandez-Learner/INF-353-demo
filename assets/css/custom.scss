@@ -31,3 +31,47 @@
   font-family: "URW Chancery L", cursive;
   color: #00008B;
 }
+
+.center {
+  margin: auto;
+  width: 22%;
+  padding: 2px;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.content-left {
+  @media all and (mid-width: 960px) {
+    width: 66%;
+    float: left;
+  }
+}
+
+.img-right {
+  @media all and (mid-width: 960px) {
+    width: 33%;
+    float: right;
+  }
+}
+
+img {
+  border-radius: 25px;
+  padding: 30px;
+  width: 320px;
+  height: auto;
+}
+
+.column {
+  float: right;
+  width: 40%;
+  padding: 15px;
+  width: 100%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

@@ -35,7 +35,7 @@
 .center {
   margin: auto;
   width: 22%;
-  padding: 2px;
+  padding: 1px;
 }
 
 .clearfix {
@@ -59,15 +59,18 @@
 img {
   border-radius: 25px;
   padding: 30px;
-  width: 320px;
+  width: 325px;
   height: auto;
+  float: right;
 }
 
 .column {
   float: right;
-  width: 40%;
-  padding: 15px;
+  padding: 25px;
   width: 100%;
+  height: 100%;
+  text-align: left;
+  border-bottom: 2px ridge white;
 }
 
 .row:after {

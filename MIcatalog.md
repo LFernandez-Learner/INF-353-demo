@@ -3,7 +3,9 @@ title: Musical Instruments Catalog
 layout: default
 permalink: /MIcatalog/
 ---
-Here are some of the lists of musical instruments catalog (50 of catalogs)
+
+Here are some of the lists of musical instruments catalog (50 of catalogs):
+
 
 <div class="column">
 This is a violin, or known as fiddle. It is part of the String Instruments and the smallest,

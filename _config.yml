@@ -1,2 +1,6 @@
 title: Musical Instruments
 theme: jekyll-theme-cayman
+collections:
+  groups_of_musical_instruments:
+    output: true
+    layout: groups_of_musical_intrument

@@ -19,3 +19,5 @@ img { border-radius: 25px; padding: 30px; width: 325px; height: auto; float: rig
 .row:after { content: ""; display: table; clear: both; }
 
 .h3 { color: #F0FFFF; font-size: 145%; }
+
+.aside { display: block; float: right; }

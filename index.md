@@ -8,5 +8,10 @@ There are over 2000 musical instruments from around the world, and there are 6 d
 
 Browse the Groups of Musical Instruments:
 
+{% for groups_of_musical_instrument in site.groups_of_musical_instruments %}
+  <h3>{{ groups_of_musical_instrument.title }}</h3>
+  <p>{{ groups_of_musical_instrument.content }}</p>
+{% endfor %}
+
 Quote:
 "People are like musical instruments: their sound depends on who touches them." -Virgil

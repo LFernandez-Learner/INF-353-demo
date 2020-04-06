@@ -2,3 +2,7 @@
 title: Orchestra Instruments
 category: Orchestra
 ---
+<p>-When it started?</p>
+<p>-Which country created first percussion?</p>
+<p>-How many Orchestra instruments are there?</p>
+<p>-How many countries play Orchestra instruments as part of their tradition?</p>

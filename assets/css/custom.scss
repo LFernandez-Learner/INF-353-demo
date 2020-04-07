@@ -36,6 +36,8 @@
   margin: auto;
   width: 22%;
   padding: 1px;
+  color: #E0FFFF;
+  font-size: 107%;
 }
 
 .clearfix {
@@ -87,4 +89,21 @@ img {
 .aside {
   display: block;
   float: right;
+}
+
+.h4 {
+  color: #FFFFF0;
+  font-size: 115%;
+}
+
+.p {
+  color: #E0FFFF;
+}
+
+.quote {
+  width: 300px;
+  border: 8px solid aqua;
+  padding: 15px;
+  margin: 20px;
+  color: #FFFFFF;
 }

@@ -2,3 +2,8 @@
 title: String Instruments
 category: Strings
 ---
+
+<p>-When it started? 2500-3000 B.C.</p>
+<p>-Which country created first string? Mesopotamia</p>
+<p>-how many string instruments are there? There are over 402 string intruments from around the countries</p>
+<p>-How many countries play string instruments as part of the tradition? Almost All the country use the string instruments as par tof their tradition because there are several types of string instruments where each one of them have their own experiences where most countries use them as part of the characteristic of their cultures.</p>

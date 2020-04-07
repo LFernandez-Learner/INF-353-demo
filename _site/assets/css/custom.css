@@ -4,7 +4,7 @@
 
 .main-content { max-width: 96rem; padding: 2rem 0.5rem; margin: 0 auto; font-size: 0.95rem; background-color: #00CED1; background-size: cover; background-position: center center; font-family: "URW Chancery L", cursive; color: #00008B; }
 
-.center { margin: auto; width: 22%; padding: 1px; }
+.center { margin: auto; width: 22%; padding: 1px; color: #E0FFFF; font-size: 107%; }
 
 .clearfix { overflow: auto; }
 
@@ -21,3 +21,9 @@ img { border-radius: 25px; padding: 30px; width: 325px; height: auto; float: rig
 .h3 { color: #F0FFFF; font-size: 145%; }
 
 .aside { display: block; float: right; }
+
+.h4 { color: #FFFFF0; font-size: 115%; }
+
+.p { color: #E0FFFF; }
+
+.quote { width: 300px; border: 8px solid aqua; padding: 15px; margin: 20px; color: #FFFFFF; }

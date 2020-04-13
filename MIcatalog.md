@@ -21,7 +21,16 @@ guitar family invented in 1932 by jazz group players in United States.
 </div>
 
 <div class="column">
-This is an Acoustic guitar, also part of the guitar family and string instruments, it is invented
+This is an Acoustic guitar, also part of the guitar family and String instruments, it is invented
 by Antonio Torres Jurado in 1830s from Spain.
 <img src="{{ "/images/Acoustic_Guitar.jpg" | relative_url }}">
+</div>
+
+<div class="column">
+This is castanets, it is part of the Percussion Instrument, or known as idiophones. Castanets was
+invented by Phoenicians in 1000 B.C., and its have used most in Mediterranean area: Spain, Portuguese,
+and Italian, also in Turkey, Egypt, and Greece. Each country have their own symbolism while they play</p>
+with castanets, for instance, In Spain they have use a lot for Flamenco, with dramatic dancing and</p>
+playing castanets at the same time.
+<img src="{{ "/images/castanets.jpg" | relative_url }}">
 </div>

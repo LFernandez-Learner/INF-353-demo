@@ -6,6 +6,15 @@ permalink: /history/
 <div class="h3"><center>History of Musical Instruments Website</center></div>
 
 Brass:
+<p>The brass instrument, or known as aerophone, started in Renaissance time in Greece, Roman, Scandinavia, and Hebrew. During 1400 the musician inventors started to build s-shaped trumpets with different models of tubes.</p>
+
+<p>In 1700-1710, Michael Leichnambschneider, an instrument maker, made first to put terminal crooks on horns to play them in different keys and different tunes. Fifty years later a hornist developed a new technique of brass instrument to add pitches to the overtone of the horn through various degrees to practice for horn players.</p>
+
+<p>In the 19th century, there is some disagreement who exactly developed brass instruments, such as trumpet was hard to know precisely which one of the inventors created that instrument. In 1826, a German valve trumpet was brought to Paris, France and copied the brass instrument to increase wide recognition.</p>
+
+<p>In 1835, the tuba came in. It was invented by Wilhelm Wieprecht and Johann Gottfried Moritz, however, Moritz made tenor tuba to sound little high pitch in the brass instrument in 1838. The other inventor who created euphonium was Sommer of Weimar in 1843. Before tuba and euphonium were invented, Ludwig Von Beethoven introduced a new brass instrument, trombone while he was composing his new piece in symphonic, like he created 5th to 9th symphonic with three trombones players.</p>
+
+<p>At the beginning 1920s, the trumpet and trombone became most important in jazz in the United States, then in European art has prompted composers while they were writing in different tunes of brass instruments and they were trying to find a right fit of brass instruments in any music genres.</p>
 
 Keyboards:
 <p>The beginning of the keyboard started in 3rd century BC when it was introduced organ in Alexandria, Egypt. The organ was the first keyboard instrument and it produced with different keys to harmonize different sounds created by Ctesibius. He created a very small organ, stand of the keyboard, and short amount keys to play with. Then in 1361, the cathedral organ at Halberstadt, Germany built a bigger organ with three chromatic keyboards, three pedals, and keys made wider. Then in the 16th century, the organ began more cultivating to make more songs with Renaissance performing, though most of the people didn’t know the difference of keys of organ instruments. There are multiple types of the organ from around the world that symbolize the sounds and style instruments, and some of them believed that it is hard to recognize the meaning of echoes</p>
@@ -36,8 +45,23 @@ Percussion:
 <p>There are several types of Percussion instruments form around the world, each one of them has the qualities of their rhythm, their cultures, their religion, and purposes. Sometimes, some of the percussions are identified as the same instruments of percussions, such as Marimbas and Xylophone, but in reality, they are not. Most of them have their sounds and their creativity where people create different vibrations of music.</p>
 
 Strings:
+<p>String instruments, also known as chordophones makes the most unique musical instrument by needing instrument hollow. It started in 13000 B.C. when there was a painting in the cave of Trois Frères Cave in France by some belief that there was the musical bow, or sometimes it figured a hunting bow with a single-stringed musical instrument. Then in 4000 B.C. from Western Asia, harp became more sophisticated than any other early string instrument because it was created with technical and artistic harp with lyres, citharas, and lutes.</p>
 
-<p>Woodwinds:</p>
+<p>In Renaissance time, both violin and guitars became fascinated with design and were some similar shapes that are almost identical, though not all violin and guitar have a similar amount of strings and sounds.</p>
+
+<p>In string instruments had 4 types: lutes, zithers, lyres, and harps. Each one of them represents their historic background on how one of the string instruments became and how it created.</p>
+
+<p>The origin of lutes started in the 9th-10th century in China, The Arab, Byzantium, and Europe. Lutes are made of distinct sound and structure, added with timbre historic of symbolic associations. Some of the lutes from the back of decades had a different amount of string-like small amount had a single-string, a majority had three, four, or more strings. For instance, in Mongolia, their string instrument, Morin Khuur is unique with only two strings to played by fingered pitches. The other example that is part of the lutes from different global cultures; Icelandic fidla, Korean ajaeng, Scandinavian talharpa. They also classified as an idiophone.</p>
+
+<p>Zither came originally from 1600-1046 B.C. during the Shang Dynasty from China. They made only seven strung in string instruments. Even though Zither’s figure came different continents that they play differently by finger, and there are two Zither’s family with distinct characteristics, such as in Zither family from Eurasia, America, and Africa used stringed lie parallel of the barrel, and long-zither family from Eastern Asia made in half-tube zithers.</p>
+
+<p>Lyres were important in ancient centers of Babylonia, Egypt, and Greece, however during medieval from western Europe, the 4th-12th century, most lyres were judged that it seemed like muting the technique from Ethiopia. Harps was originally from western and central Africa from past decades that were made in anthropomorphic desires and skin-covered resonators.</p>
+
+<p>Many violins and other relatives of the violin family have persuaded universally used to every country for their traditions. Though the violins were originally coming from southern Europe in the 16th Century, and every violin family has different models to make different vibrations with strings and bow. For example, The Polish fiddle, known as polnische violin made in 1545, is very alike from the violin, but different shapes from the top and wide are straighter.</p>
+
+<p>The violin is the oldest in the violin family from string instruments by string instrument maker, Andrea Amati in the early 16th century, and it is the smallest in the violin family. Next was the viola, was the next generation of the violin family in 1530 by the same maker, Andrea Amati. It is bigger and has a sweeter sound than the violin and cello. Lastly, the third violin family came in cello. It was made in 1535 by Andrea Amati. Cello is the biggest in the violin family and deepest volume. Many musicians have said that cello is easiest in the violin family to play with any melody music. However, there are several violin families from around the globe made by different musician makers, each one of them has own distinctive how they play differently harmony. Also, in the present day, many violin families became an electric violin to make more electric sounds for pop, rock, DJ, and any other soundtracks music.</p>
+
+Woodwinds:
 <p>Since percussion and keyboard started to evolve to rebuild and began more playable instruments, the same as woodwind instruments. From the past thousands of years during cavemen generation, the archeologists have found the first woodwind instrument, and it is the flute that is made of cave bear bone. Though, many music historic people believed that the first flute established in Western Europe by the end of the 2nd century.</p>
 
 <p>After centuries, the woodwind created two groups by knowing which of the woodwind instrument belong to and meaning. The two groups of woodwind instruments are flutes and reeds or known as reed pipes. The difference between flutes and reed instruments is that flutes instruments use open-air while changing different columns, then close air to vibrate and produce the sound. The reed instruments have single-reed and double-reed; single-reed uses the single opening of a mouthpiece by vibrating when it is blown, and the same thing as double-reed, but uses two cuts to bound together while vibrating when is blown.</p>

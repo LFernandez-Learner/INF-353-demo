@@ -4,7 +4,7 @@ layout: default
 permalink: /MIcatalog/
 ---
 
-Here are some of the lists of musical instruments catalog (50 of catalogs):
+<div class="header3">Here are some of the lists of musical instruments catalog (50 of catalogs):</div>
 
 
 <div class="column">

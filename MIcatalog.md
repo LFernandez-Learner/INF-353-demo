@@ -34,3 +34,9 @@ with castanets, for instance, In Spain they have use a lot for Flamenco, with dr
 playing castanets at the same time.
 <img src="{{ "/images/castanets.jpg" | relative_url }}">
 </div>
+
+<div class="column">
+Clapping is part of the Percussion instrument. Clapping came in 6th Century when the Romans started to applause after performing, and years later, the musicians started to clapping as a percussion instrument by using strong rhythm while playing with other percussions and string instruments. For instance, in Flamenco, they use a lot of clapping while singing and dancing with castanets, guitar, and drums.
+<img src="{{ "/images/Clapping.jpg" | relative_url }}">
+<img src="{{ "/images/Clapping2.jpg" | relative_url }}">
+</div>

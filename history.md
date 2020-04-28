@@ -5,7 +5,7 @@ permalink: /history/
 ---
 <div class="h3"><center>History of Musical Instruments Website</center></div>
 
-Brass:
+<div class="header4">Brass:</div>
 <p>The brass instrument, or known as aerophone, started in Renaissance time in Greece, Roman, Scandinavia, and Hebrew. During 1400 the musician inventors started to build s-shaped trumpets with different models of tubes.</p>
 
 <p>In 1700-1710, Michael Leichnambschneider, an instrument maker, made first to put terminal crooks on horns to play them in different keys and different tunes. Fifty years later a hornist developed a new technique of brass instrument to add pitches to the overtone of the horn through various degrees to practice for horn players.</p>
@@ -16,21 +16,21 @@ Brass:
 
 <p>At the beginning 1920s, the trumpet and trombone became most important in jazz in the United States, then in European art has prompted composers while they were writing in different tunes of brass instruments and they were trying to find a right fit of brass instruments in any music genres.</p>
 
-Keyboards:
+<div class="header4">Keyboards:</div>
 <p>The beginning of the keyboard started in 3rd century BC when it was introduced organ in Alexandria, Egypt. The organ was the first keyboard instrument and it produced with different keys to harmonize different sounds created by Ctesibius. He created a very small organ, stand of the keyboard, and short amount keys to play with. Then in 1361, the cathedral organ at Halberstadt, Germany built a bigger organ with three chromatic keyboards, three pedals, and keys made wider. Then in the 16th century, the organ began more cultivating to make more songs with Renaissance performing, though most of the people didn’t know the difference of keys of organ instruments. There are multiple types of the organ from around the world that symbolize the sounds and style instruments, and some of them believed that it is hard to recognize the meaning of echoes</p>
 
 <p>Then in 1500, Italy created harpsichord to create a new keyboard instrument, then it started to expand to become more important from around Europe. Then in the middle of the 17th Century, Bartolomeo Cristofori made the first invention of the piano, it was a successful keyboard instrument invention and became the known most important to play in any music genre. Then in 1711, the piano instrument was described in different symbols, for instance, Scipione Maffei called Bartolomeo’s piano invention “gravicembalo col piano e forte” - “harpsichord with soft and loud”.</p>
 
 <p>In the 1730s, Gottfried Silbermann of Freiberg was a builder or organ, harpsichord, and clavichords. Clavichord expanded more and it is almost related to harpsichord that is almost look alike, though the sounds are highly different, like clavichord sound sharp, less high notes, and early close sound after it played, and in harpsichord sound sweeter, less sharp, more harmonize, and high pitch.</p>
 
-Orchestra:
+<div class="header4">Orchestra:</div>
 <p>The meaning of orchestra was in Greek definition is the semicircular area by using chorus presentation. It started in the early 1600s when an Italian opera composer, Claudio Monteverdi assigned the group of instruments which one of them will play in Opera performing. Years later, they separated different orchestra groups to symbolize, quantity and leveling the performance, chamber orchestra and symphony orchestra. Chamber orchestra started in the late 1700s by Mozart, Haydn, and Beethoven when they performed in the small number of players, sometimes only 5-25 amount instrument players. In the symphony orchestra became the first group of orchestras in the early 17th century before the chamber orchestra came in, it is meant many players with mixed groups of instruments, such as woodwinds, brass, keyboards, strings, and percussions. Usually, there are over 100 symphony orchestra to play in any music genre.</p>
 
 <p>Then in the late 1800s, some of the musicians have directed conductors, though at an early age there weren’t conductors as long there were master musicians to teach the musicians to play.</p>
 
 <p>When the orchestra started in the early 17th century, Italy was influenced to play in opera, then a couple of years later, Germany followed them to play also in opera. Every musician's conductor, such as Johann Sebastian Bach, Wolfgang Amadeus Mozart, Ludwig van Beethoven, Antonio Vivaldi, and Frédéric Chopin played different sounds of the orchestra and they have organized different group of orchestra what they have believed that this song can lead to playing in classical and opera music either symphonic or chamber orchestra.</p>   
 
-Percussion:
+<div class="header4">Percussion:</div>
 <p>Percussion is the oldest and unique of the instrument in historic, the first percussion drum was created originally in Turkey. Each percussion instrument represented the meaning and many people have believed that the goddesses and gods have created the drums to symbolize their religion, beliefs, and their cultures. Additionally, most drums don’t have the same musical sounds, each one of them has their rhythms and style where it leads to define the meaning while playing the drums.</p>
 
 <p>For instance, Mesopotamia was the oldest and founded in Catal Hayak in 5600 B.C. Moreover, the people believed that the goddess Inanna created the drum and named by priestess Lipushiau of Mesopotamia.</p>
@@ -44,7 +44,7 @@ Percussion:
 
 <p>There are several types of Percussion instruments form around the world, each one of them has the qualities of their rhythm, their cultures, their religion, and purposes. Sometimes, some of the percussions are identified as the same instruments of percussions, such as Marimbas and Xylophone, but in reality, they are not. Most of them have their sounds and their creativity where people create different vibrations of music.</p>
 
-Strings:
+<div class="header4">Strings:</div>
 <p>String instruments, also known as chordophones makes the most unique musical instrument by needing instrument hollow. It started in 13000 B.C. when there was a painting in the cave of Trois Frères Cave in France by some belief that there was the musical bow, or sometimes it figured a hunting bow with a single-stringed musical instrument. Then in 4000 B.C. from Western Asia, harp became more sophisticated than any other early string instrument because it was created with technical and artistic harp with lyres, citharas, and lutes.</p>
 
 <p>In Renaissance time, both violin and guitars became fascinated with design and were some similar shapes that are almost identical, though not all violin and guitar have a similar amount of strings and sounds.</p>
@@ -61,7 +61,7 @@ Strings:
 
 <p>The violin is the oldest in the violin family from string instruments by string instrument maker, Andrea Amati in the early 16th century, and it is the smallest in the violin family. Next was the viola, was the next generation of the violin family in 1530 by the same maker, Andrea Amati. It is bigger and has a sweeter sound than the violin and cello. Lastly, the third violin family came in cello. It was made in 1535 by Andrea Amati. Cello is the biggest in the violin family and deepest volume. Many musicians have said that cello is easiest in the violin family to play with any melody music. However, there are several violin families from around the globe made by different musician makers, each one of them has own distinctive how they play differently harmony. Also, in the present day, many violin families became an electric violin to make more electric sounds for pop, rock, DJ, and any other soundtracks music.</p>
 
-Woodwinds:
+<div class="header4">Woodwinds:</div>
 <p>Since percussion and keyboard started to evolve to rebuild and began more playable instruments, the same as woodwind instruments. From the past thousands of years during cavemen generation, the archeologists have found the first woodwind instrument, and it is the flute that is made of cave bear bone. Though, many music historic people believed that the first flute established in Western Europe by the end of the 2nd century.</p>
 
 <p>After centuries, the woodwind created two groups by knowing which of the woodwind instrument belong to and meaning. The two groups of woodwind instruments are flutes and reeds or known as reed pipes. The difference between flutes and reed instruments is that flutes instruments use open-air while changing different columns, then close air to vibrate and produce the sound. The reed instruments have single-reed and double-reed; single-reed uses the single opening of a mouthpiece by vibrating when it is blown, and the same thing as double-reed, but uses two cuts to bound together while vibrating when is blown.</p>

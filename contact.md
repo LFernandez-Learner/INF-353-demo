@@ -24,7 +24,6 @@ permalink: /contact/
 <p>I like to thank my sister and her friend, who helped me to take some of the pictures of Musical Instruments.</p>
 </div></div>
 
-
 Contact:
 
 <div class="quote2">Quote:

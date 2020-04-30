@@ -95,7 +95,9 @@ img {
 
 .h4 {
   color: #FFFFF0;
-  font-size: 115%;
+  font-size: 140%;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: underline;
 }
 
 .p {
@@ -103,31 +105,34 @@ img {
 }
 
 .quote {
-  width: 300px;
+  width: 325px;
   border: 8px solid aqua;
   padding: 15px;
   margin: 20px;
-  font-size: 115%;
+  font-size: 130%;
   background-color: #6495ED;
   color: #FFFFFF;
   position: absolute;
   top: 70%;
   right: 1%;
+  font-family: "Monotype Corsiva", Times, serif;
 }
 
 .header {
   float: center;
   text-align: center;
   color: #F8F8FF;
-  font-size: 125%;
+  font-size: 150%;
+  font-family: Georgia, serif;
 }
 
 .paragraph {
   text-align: left;
   float: left;
-  font-size: 100%;
+  font-size: 115%;
   padding: 2px;
   margin: 0px;
+  font-family: Georgia, serif;
 }
 
 .border {
@@ -155,7 +160,7 @@ img {
 }
 
 .header3 {
-  font-size: 115%;
+  font-size: 130%;
   color: #F8F8FF;
   text-align: center;
   padding: 5px;
@@ -164,14 +169,14 @@ img {
 
 .border5 {
   border: 4px solid #191970;
-  background-color: #F5FFFA;
+  background-color: #87CEEB;
   border-radius: 2px;
   width: 550px;
 }
 
 .quote2 {
-  width: 300px;
-  font-size: 115%;
+  width: 345px;
+  font-size: 135%;
   border: 8px solid aqua;
   padding: 15px;
   margin: 20px;
@@ -180,30 +185,54 @@ img {
   position: absolute;
   top: 65%;
   right: 1%;
+  font-family: "Monotype Corsiva", Times, serif;
 }
 
 .header4 {
-  font-size: 110%;
+  font-size: 135%;
   text-align: left;
   text-decoration: underline;
   color: #2E8B57;
   padding: 1px;
   margin: 0px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .border3 {
-  width: 550px;
-  font-size: 100%;
-  border: 5px solid #FFFAFA;
+  width: 625px;
+  font-size: 112%;
+  border: 4px solid #20B2AA;
   background-color: #40E0D0;
+  font-family: Georgia, serif;
 }
 
 .border4 {
-  width: 550px;
-  font-size: 100%;
-  border: 5px solid #FFFAFA;
+  width: 625px;
+  font-size: 112%;
+  border: 4px solid #20B2AA;
   background-color: #40E0D0;
   position: absolute;
   right: 1%;
-  top: 61%;
+  top: 62%;
+  font-family: Georgia, serif;
+}
+
+.Paragraph3 {
+  text-indent: 50px;
+}
+
+.quote3 {
+  width: 310px;
+  font-size: 135%;
+  border: 7px solid aqua;
+  padding: 15px;
+  margin: 20px;
+  color: #FFFFFF;
+  background-color: #6495ED;
+  font-family: "Monotype Corsiva", Times, serif;
+}
+
+.p2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 115%;
 }

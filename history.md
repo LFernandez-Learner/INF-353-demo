@@ -75,6 +75,9 @@ permalink: /history/
 
 <p><div class="p2">Every woodwind instrument has its groups for different vibrations, sounds of quality, and rhythm. Sometimes from the past decades, it is difficult to choose which of the groups belong to, but as long as the woodwind instrument has observed clearly and listen carefully.</div>  
 
-<div class="border6">By Knowing more about the Musical Instruments History, here are some navigation of any instruments genre:
+<div class="quote4">Quote:
+"Music is the Universal Language that allows all people to communicate with each other."-Ellen J. Barrier
+</div>
 
+<div class="quote5">Quote:
 </div>

@@ -8,7 +8,8 @@ permalink: /contact/
 
 <div class="header2">References (Work Cited):</div>
 <div class="border"><div class="paragraph2">
-<div class="p3"><p>Cecil Clutton, E. M. (n.d.). Keyboard Instrument. Retrieved April 5, 2020, from https://www.britannica.com/: https://www.britannica.com/art/keyboard-instrument</p>
+<div class="p3"><p>Balvanz, L. (n.d.). History of the Flute: Antiquity to the MIddle Ages . Retrieved May 3, 2020, from https://www.musikalessons.com/: https://www.musikalessons.com/blog/2016/06/history-of-the-flute/Cecil</p>
+<p>Clutton, E. M. (n.d.). Keyboard Instrument. Retrieved April 5, 2020, from https://www.britannica.com/: https://www.britannica.com/art/keyboard-instrument</p>
 <p>Encyclopedia, N. W. (2018, December 21). Orchestra. Retrieved April 1, 2020, from https://www.newworldencyclopedia.org/: https://www.newworldencyclopedia.org/entry/Orchestra</p>
 <p>Eric Halfpenny, T. C. (n.d.). Stringed Intrument. Retrieved April 16, 2020, from https://www.britannica.com/: https://www.britannica.com/art/stringed-instrument</p>
 <p>ESRI. (n.d.). History and Evolution of Percussion . Retrieved April 1, 2020, from https://www.arcgis.com/: https://www.arcgis.com/apps/MapJournal/index.html?appid=dfa95765f4364b92a08881e4e21bd48c</p>

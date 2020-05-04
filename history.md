@@ -80,4 +80,5 @@ permalink: /history/
 </div>
 
 <div class="quote5">Quote:
+"Sweet harmonious sounds give exquisite joy to human beings capable of appreciating music. I delight in hearing harmonious tones made by the human voice, by musical instruments, and by both combined."-Brigham Young
 </div>
